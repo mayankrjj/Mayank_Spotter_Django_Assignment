@@ -34,7 +34,7 @@ This Django API calculates the optimal route between two US locations and determ
 2. Create virtual environment:
    ```bash
    python -m venv env
-   source env/bin/activate  # for Mac/Linux
+   source env/bin/activate  
    
    ```
 
