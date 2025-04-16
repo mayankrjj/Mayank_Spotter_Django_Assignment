@@ -1,0 +1,1 @@
+# Mayank_Spotter_Django_Assignment
