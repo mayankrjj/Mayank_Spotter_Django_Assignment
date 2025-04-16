@@ -35,7 +35,7 @@ This Django API calculates the optimal route between two US locations and determ
    ```bash
    python -m venv env
    source env/bin/activate  # for Mac/Linux
-   env\Scripts\activate    # for Windows
+   
    ```
 
 3. Install dependencies:
@@ -91,11 +91,6 @@ http://localhost:8000/api/fuel-route/?start=34.0522,-118.2437&end=36.1699,-115.1
 
 ---
 
-### 📹 Loom Video Instructions
-- Walk through `views.py`, `utils.py`, `.env`, and fuel CSV
-- Show API call in Postman with query string parameters
-- Keep video under 5 minutes
-- Upload it as part of your Spotter application
 
 ---
 
